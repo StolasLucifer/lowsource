@@ -1,1 +1,11 @@
-
+Package: com.lowsignal.app
+Name: LOW SIGNAL
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Мессенджер LOW SIGNAL для iOS. Безопасный, локальный, стильный.
+Maintainer: Senya
+Author: Senya
+Section: Applications
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./com.lowsignal.app_1.1.1_iphoneos-arm.deb
+Size: 865792
